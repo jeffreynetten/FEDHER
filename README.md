@@ -39,16 +39,16 @@ Jeffrey Netten
   https://misbhv.com/eu/en/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Front page
+  
   <img src="images/front1.png" width="375px" alt="omschrijving van de pagina">
   <img src="images/front2.png" width="375px" alt="omschrijving van de pagina">
   <img src="images/front3.png" width="375px" alt="omschrijving van de pagina">
   <img src="images/front4.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Product Page  
-  <img src="images/product1.png width="375px" alt="omschrijving van de pagina">
-  <img src="images/product2.png width="375px" alt="omschrijving van de pagina">
+    
+  <img src="images/product1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="images/product2.png" width="375px" alt="omschrijving van de pagina">
 </details>
 
 
