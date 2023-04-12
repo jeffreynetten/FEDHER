@@ -54,152 +54,16 @@ Jeffrey Netten
 
 
 
-## Breakdownschets (week 1)
+## Breakdownschets (week 3)
 
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="images/front.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/mainly.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="images/product.png" width="375px" alt="breakdown van de product pagina">
-
-</details>
-
-
-
-
-
-## Voortgang 1 (week 2)
-
-<details>
-  <summary>uitwerken voor 1e voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
-</details>
-
-
-
-
-
-## Voortgang 2 (week 3)
-
-<details>
-  <summary>uitwerken voor 2e voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
-</details>
-
-
-
-
-
-## Toegankelijkheidstest 2/2 (week 4)
-
-<details>
-  <summary>uitwerken na test in 8e werkgroep</summary>
-
-  ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
-  #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-</details>
-
-
-
-
-
-## Voortgang 3 (week 4)
-
-<details>
-  <summary>uitwerken voor 3e voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  <img src="images/prodly.png" width="375px" alt="breakdown van de product pagina">
 
 </details>
 
@@ -212,21 +76,20 @@ Jeffrey Netten
 <details>
   <summary>uitwerken voor eindgesprek</summary>
 
-  ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-
-
-  ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
-
-  ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+ Vanwege het late bijstromen bij dit vak heb ik voor het eingsprek alleen de basis van mijn website staan.
+ Daarom heb ik besloten te gaan voor de aankomende herkansing 14 april.
+ 
 </details>
+
+HERKANSING:
+
+In de tijd dat ik ging werken naar de herkansing toe heb ik heel veel youtube tutorials gezocht naar hoe HTML/CSS/JAVASCRIPT ook alweer precies werkte. Uiteindelijk kwam ik er steeds meer in en herinnerde ik mij ook steeds meer dingen van de eerdere lessen die ik heb gehad in de vorige jaren. 
+
+Op het begin vond ik het heel lastig aan de slag te gaan maar naarmate ik er meer mee aan de slag ging werd het steeds leuker.
+Het gevoel als iets lukt wat je moeilijk vind is echt geweldig. Daardoor kreeg ik meer motivatie en uiteindelijk heb ik de website af kunnen maken.
+Ook heb ik mijn eigen elementen toegevoegd zoals onder andere: Dark-Light mode die niet beschikbaar is op de officiele website.
+
+Ik zie nog wel dat ik in bepaalde vlakken moeite heb met het maken van een website. Maar dat zijn punten die ik zeker nog wil leren en niet in 1 keer zullen komen. Dit is in ieder geval op dit moment het gene wat ik heb gecodeerd en het meest trots op ben.
 
 
 
@@ -239,8 +102,15 @@ Jeffrey Netten
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. De powerpoint presentaties
+  2. https://www.youtube.com/watch?v=9LZGB3OLXNQ&t=539s&ab_channel=EasyTutorials (Light to Dark mode)
+  3. https://www.youtube.com/watch?v=1iS0r238G4g&t=517s&ab_channel=DeltatyCode (Hamburger menu)
+  4. https://www.youtube.com/watch?v=BsaubFxvGN8&t=289s&ab_channel=TheWheelchairGuy (Displaying of elements)
+  5. https://www.youtube.com/watch?v=lsP5agWYjCU&t=252s&ab_channel=TheWheelchairGuy (Content plaatsing)
+  6. https://www.youtube.com/watch?v=2O8pkybH6po&t=130s&ab_channel=BroCode (Forms)
+  7. https://www.youtube.com/watch?v=OOy764mDtiA&ab_channel=DaniKrossing (Video in website plaatsen)
+  8. https://www.youtube.com/watch?v=kmVrFwkI9Fw&t=138s&ab_channel=MohitSarangal (Image Sizing)
+  9. https://www.youtube.com/watch?v=jx5jmI0UlXU&t=238s&ab_channel=WebDevSimplified (CSS image/element placing)
+  10. https://www.youtube.com/watch?v=yCyD5AZegLk&ab_channel=CreativeRafikul (Tekst van rechts naar Links)
 
 </details>
